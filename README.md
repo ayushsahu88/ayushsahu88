@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Sahu
 
-<!--
-**ayushsahu88/ayushsahu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🧠 C++ & DSA
 
-Here are some ideas to get you started:
+🎓 MCA @ GL Bajaj
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Building Full Stack Web Applications
+- 🤖 Exploring AI/ML
+- 🧠 Practicing DSA in C++
+- 🚀 Building real-world projects
