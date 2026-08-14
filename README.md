@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0072ff&height=200&section=header&text=Ayush%20Sahu&fontSize=50&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:9B7BFF,100:D4B4FF&height=220&section=header&text=Ayush%20Sahu&fontSize=48&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+MERN+Stack+Applications;Exploring+AI-Powered+Web+Apps;Learning+DSA+in+C%2B%2B;Diving+into+AI%2FML+Concepts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9B7BFF&center=true&vCenter=true&width=650&lines=Building+MERN+Stack+Applications;Exploring+AI-Powered+Web+Apps;Learning+DSA+in+C%2B%2B;Diving+into+AI%2FML+Concepts" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-9B7BFF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayushsahu88&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ayushsahu88?label=Followers&style=flat-square&color=00D9FF" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ayushsahu88&color=9B7BFF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ayushsahu88?label=Followers&style=flat-square&color=9B7BFF" alt="Followers"/>
 
 </div>
 
@@ -43,7 +43,7 @@ const ayushSahu = {
 ### AI Notes Application
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsahu88&repo=ai-notes-application&theme=nord&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="AI Notes Application"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsahu88&repo=ai-notes-application&theme=nord&border_color=9B7BFF&title_color=9B7BFF&text_color=c9d1d9" alt="AI Notes Application"/>
 </div>
 
 An AI-powered notes application with smart note generation via AI API integration, a clean responsive UI, and efficient frontend-backend communication.
@@ -61,7 +61,7 @@ An AI-powered notes application with smart note generation via AI API integratio
 ### E-Commerce Website
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsahu88&repo=e-commerce-website&theme=nord&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="E-Commerce Website"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsahu88&repo=e-commerce-website&theme=nord&border_color=9B7BFF&title_color=9B7BFF&text_color=c9d1d9" alt="E-Commerce Website"/>
 </div>
 
 A full-stack e-commerce platform with product listings, shopping cart functionality, user authentication, and dynamic data handling, built on the MERN stack.
@@ -104,15 +104,36 @@ A full-stack e-commerce platform with product listings, shopping cart functional
 
 <br/>
 
+## 💜 What I Bring
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+<b>🎯 Full-Stack</b><br/>
+<sub>End-to-end MERN apps,<br/>frontend to database</sub>
+</td>
+<td width="33%" align="center">
+<b>🤖 AI-Curious</b><br/>
+<sub>Building with AI APIs,<br/>learning ML fundamentals</sub>
+</td>
+<td width="33%" align="center">
+<b>⚡ Hackathon-Tested</b><br/>
+<sub>Top 5 finalist under<br/>real time pressure</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsahu88&show_icons=true&theme=nord&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu88&layout=compact&theme=nord&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsahu88&show_icons=true&theme=nord&border_color=9B7BFF&title_color=9B7BFF&icon_color=9B7BFF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu88&layout=compact&theme=nord&border_color=9B7BFF&title_color=9B7BFF&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushsahu88&theme=nord&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ayushsahu88&theme=nord&border=9B7BFF&ring=9B7BFF&fire=9B7BFF&currStreakLabel=9B7BFF" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -128,7 +149,7 @@ A full-stack e-commerce platform with product listings, shopping cart functional
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsahu88&theme=nord&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsahu88&theme=nord&hide_border=true&color=9B7BFF&line=9B7BFF&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -151,4 +172,4 @@ A full-stack e-commerce platform with product listings, shopping cart functional
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00D9FF&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4B4FF,50:9B7BFF,100:6E56CF&height=150&section=footer" width="100%"/>
