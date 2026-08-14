@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushsahu88&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -96,7 +96,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushsahu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/ayushsahu8423"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ayushsahu871@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
