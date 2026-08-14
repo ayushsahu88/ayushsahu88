@@ -1,181 +1,154 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Sahu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0072ff&height=200&section=header&text=Ayush%20Sahu&fontSize=50&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### 💻 MERN Stack Developer | C++ DSA | Web Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+MERN+Stack+Applications;Exploring+AI-Powered+Web+Apps;Learning+DSA+in+C%2B%2B;Diving+into+AI%2FML+Concepts" alt="Typing SVG" />
+</a>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;C%2B%2B+%26+DSA+Enthusiast;Building+Modern+Web+Applications;Learning+%26+Building+Every+Day" />
-</p>
+<img src="https://img.shields.io/badge/Open%20to%20Work-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
 
-<p>
-  <a href="https://github.com/ayushsahu88">
-    <img src="https://img.shields.io/github/followers/ayushsahu88?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ayushsahu88&style=for-the-badge&color=58A6FF" />
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushsahu88&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ayushsahu88?label=Followers&style=flat-square&color=00D9FF" alt="Followers"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 🧠 Who I Am
 
-🎓 MCA Student at **GL Bajaj Institute of Technology & Management**
+```typescript
+const ayushSahu = {
+  title: "MERN Stack Developer | MCA Student",
+  stack: ["React.js", "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Material UI"],
+  languages: ["C++", "JavaScript", "HTML", "CSS"],
+  tools: ["Git", "GitHub", "Docker", "Jenkins", "AWS", "Postman", "Linux"],
+  launchedProjects: ["AI Notes Application", "E-Commerce Website (MERN)"],
+  achievements: [
+    "Top 5 Finalist – HyperSpace Innovation Hackathon (National Level), 2026",
+    "Top 15 – IDEATHON 1.0, 2025 (out of 150 teams)"
+  ],
+  certifications: [], // none listed yet
+  status: "Learning DSA in C++ and exploring AI/ML concepts",
+  openTo: ["Full-time Roles", "Internships", "MERN Stack Projects"]
+};
+```
 
-💻 Passionate about **Full Stack Web Development**
+<br/>
 
-🌐 Building applications using the **MERN Stack**
+## 🚀 Featured Projects
 
-🧠 Practicing **Data Structures & Algorithms in C++**
+### AI Notes Application
 
-🚀 Interested in creating clean, responsive and user-friendly web applications
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsahu88&repo=ai-notes-application&theme=nord&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="AI Notes Application"/>
+</div>
 
-📚 Continuously improving my development and problem-solving skills
+An AI-powered notes application with smart note generation via AI API integration, a clean responsive UI, and efficient frontend-backend communication.
 
----
+| Layer      | Technology            |
+|------------|------------------------|
+| Frontend   | React.js               |
+| Backend    | Node.js                |
+| AI Layer   | AI API Integration     |
 
-## ⚡ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,javascript,html,css" />
-</p>
-
-### 🌐 MERN Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+🔗 [Code](https://github.com/ayushsahu88/ai-notes-application)
 
 ---
 
-# 🚀 Featured Projects
+### E-Commerce Website
 
-<table>
-<tr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsahu88&repo=e-commerce-website&theme=nord&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="E-Commerce Website"/>
+</div>
 
-<td width="50%">
+A full-stack e-commerce platform with product listings, shopping cart functionality, user authentication, and dynamic data handling, built on the MERN stack.
 
-## 📚 AI Exam Notes
+| Layer      | Technology                  |
+|------------|-------------------------------|
+| Frontend   | React.js                     |
+| Backend    | Node.js, Express.js          |
+| Database   | MongoDB                      |
 
-A full-stack web application designed to help students prepare for exams with structured study material.
+🔗 [Code](https://github.com/ayushsahu88/e-commerce-website)
 
-### Tech Stack
+<br/>
 
-`React` `Node.js` `Express.js` `MongoDB`
+## 🛠️ Tech Stack
 
-### Highlights
+**Languages**
 
-- 📖 Exam-oriented notes
-- 🔐 User authentication
-- 📄 PDF generation
-- 📚 Notes management
-- 🎨 Responsive UI
-- ⚡ Modern React interface
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="languages"/>
 
-</td>
+**Frontend**
 
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,mui" alt="frontend"/>
 
-## 💻 Virtual Assistant
+**Backend / Infra**
 
-A web-based assistant application designed to provide an interactive user experience.
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,jenkins" alt="backend/infra"/>
 
-### Tech Stack
+**Cloud**
 
-`JavaScript` `React` `Node.js`
+<img src="https://skillicons.dev/icons?i=aws" alt="cloud"/>
 
-### Highlights
+**AI / Database**
 
-- 💬 Interactive interface
-- ⚡ Dynamic responses
-- 🎨 Responsive design
-- 🔗 API integration
-- 🖥️ Modern web UI
+<img src="https://skillicons.dev/icons?i=mongodb" alt="ai/db"/>
 
-</td>
+**Dev Tools**
 
-</tr>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux" alt="dev tools"/>
 
-<tr>
+<br/>
 
-<td width="50%">
+## 📊 GitHub Stats
 
-## 🧠 DSA in C++
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsahu88&show_icons=true&theme=nord&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu88&layout=compact&theme=nord&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" height="165"/>
+</div>
 
-My collection of Data Structures & Algorithms implementations and problem-solving practice.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushsahu88&theme=nord&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
 
-### Topics
+<br/>
 
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Recursion
-- Searching
-- Sorting
-- Trees
-- LeetCode
+## 🏆 Trophies
 
-</td>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsahu88&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-<td width="50%">
+<br/>
 
-## 🌐 MERN Projects
+## 📈 Contribution Activity
 
-Full-stack applications built while learning and implementing modern web development concepts.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsahu88&theme=nord&hide_border=true&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph"/>
+</div>
 
-### Technologies
+<br/>
 
-`MongoDB`
+## 📫 Connect With Me
 
-`Express.js`
+<div align="center">
 
-`React`
+<a href="https://www.linkedin.com/in/ayushsahu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ayushsahu871@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/ayushsahu88">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-`Node.js`
+</div>
 
-</td>
+<br/>
 
-</tr>
-</table>
-
----
-
-# 🧠 Data Structures & Algorithms
-
-```text
-Arrays              █████████████████░░░  85%
-Strings             ████████████████░░░░  80%
-Linked Lists        ███████████████░░░░░  75%
-Stack & Queue       ███████████████░░░░░  75%
-Recursion           ██████████████░░░░░░  70%
-Searching & Sorting ████████████████░░░░  80%
-Trees               ████████████░░░░░░░░  60%
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00D9FF&height=150&section=footer" width="100%"/>
